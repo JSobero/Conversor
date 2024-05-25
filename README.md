@@ -6,7 +6,7 @@
 
 
 - `Funcionalidad 1`: Consultar en tiempo real las conversiones.
-- 
+
 - `Funcionalidad 2`: Consultar las veces que desees.
 
 <h2>Aplicación</h2>
