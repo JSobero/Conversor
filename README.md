@@ -5,4 +5,10 @@
 <h2>Funcionalidades</h2>
 ## :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: Consultar en tiempo real las conversiones, 1- `Funcionalidad 2`: Consultar las veces que desees. 2-
+- `Funcionalidad 1`: Consultar en tiempo real las conversiones.
+- 
+- `Funcionalidad 2`: Consultar las veces que desees.
+
+<h2>Aplicación</h2>
+
+![Screenshot_6](https://github.com/JSobero/Conversor/assets/113272848/f7c08bff-2caa-475e-a31c-ab8a0aa8bd7a)
